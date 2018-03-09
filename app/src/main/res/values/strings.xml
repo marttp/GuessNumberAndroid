@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guess Number</string>
+    <string name="helloworld">Hello World</string>
+    <string name="me">Click Me</string>
+    <string name="Sex">Sex</string>
+    <string-array name="choose_sex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
